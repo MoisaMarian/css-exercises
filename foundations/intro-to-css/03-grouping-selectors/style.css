@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.button_first,
+.button_second{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.button_first{
+    background-color: black;
+    color: white;
+}
+.button_second{
+    background-color: yellow;
+}
